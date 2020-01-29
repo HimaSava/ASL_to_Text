@@ -15,4 +15,4 @@ As this was my summer project and I was just learning OpenCV for the first time 
 2. A phone call system that speaks the signs in the phone so that the challenged person can have a normal phone conversation.
 3. An intermediate product to connect audibly challenged people to conect to voice activated devices like home automation systems, and much more...
 
-### Successfull Test cases
+
